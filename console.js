@@ -1,2 +1,7 @@
 console.log("Hello World")
-console.log("Hello World") // 2nd time
+
+
+function main() {
+  console.console.log(1);
+}
+main();
